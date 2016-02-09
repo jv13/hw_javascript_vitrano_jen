@@ -2,7 +2,7 @@
 var iceCream = [ 'Strawberry', 'Chocolate', 'Cookies and Cream' ];
 var newLength = iceCream.push( 'Rocky Road' );
 
-//presidents branch 
+//presidents branch
 var presidents = [
 		{ 'firstName': 'Barack', 'lastName': 'Obama',
 		'termLength': '2009 - Present', 'party': 'Democratic', 'yearsOfPresidency': 8 },
