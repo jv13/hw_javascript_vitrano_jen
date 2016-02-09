@@ -58,9 +58,9 @@ var numba = function( string ) {
 	} else if ( string.length == 7 ) {
 			console.log( '7, what a perfect choice!' );}
 };
-console.log( numba( '7' ) );
-console.log( numba( 'seventy' ) );
-console.log( numba( 'university' ) ) ;
+numba( '7' );
+numba( 'seventy' );
+numba( 'university' );
 
 //inception function
 function inception( callback, value ) {
